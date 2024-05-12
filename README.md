@@ -28,21 +28,18 @@ Welcome to the R Programming Fundamentals course! This course is designed to tak
 - Conditional statements (`if`, `else if`, `else`)
 - Loops (`for`, `while`)
 - Control flow statements (`break`, `next`)
-- Examples illustrating the use of control structures
 
 ## Functions
 - Introduction to functions
 - Defining and calling functions
 - Function arguments and return values
 - Scope of variables
-- Examples demonstrating function usage
 
 ## Additional Data Structures
 - Lists
 - Matrices
 - Factors
 - Arrays
-- Examples illustrating the use of each data structure
 
 ## Additional Resources
 - Links to external tutorials, documentation, and learning resources for R
